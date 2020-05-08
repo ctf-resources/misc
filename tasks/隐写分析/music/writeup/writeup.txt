@@ -1,0 +1,1 @@
+Decode.exe -X -P simctf music.mp3

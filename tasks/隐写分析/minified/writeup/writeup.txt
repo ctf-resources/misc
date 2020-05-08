@@ -1,0 +1,1 @@
+观察发现red0通道空白，考虑0通道问题，将alpha0、green0和blue0分别保存，在alpha0和green0的运算结果中发现flag。

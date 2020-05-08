@@ -1,0 +1,1 @@
+图片6的IDAT数据块不满，对图片6使用Stegslove进行分析，在BGR LSB隐写中发现flag。

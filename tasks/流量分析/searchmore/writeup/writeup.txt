@@ -1,0 +1,1 @@
+在http流量中搜索，找到POST shell.php的数据包，追踪tcp流发现cat flag.txt的流量。
